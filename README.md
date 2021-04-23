@@ -1,1 +1,0 @@
-# Openshift-project-1
